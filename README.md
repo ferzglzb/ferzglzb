@@ -50,15 +50,15 @@ Mobile first: el 95% de los comensales lo abre desde el celular.
 <tr>
 <td width="50%" valign="top">
 
-### ANKA Soluciones Industriales
+### Velada
 
-<a href="https://anka-web-mu.vercel.app"><img src="https://raw.githubusercontent.com/ferzglzb/ferzglzb/main/img/anka.png" alt="ANKA" /></a>
+<a href="https://zyria.site/invitaciones/"><img src="https://raw.githubusercontent.com/ferzglzb/ferzglzb/main/img/velada.png" alt="Velada" /></a>
 
-Sitio corporativo para una fábrica de racks y contenedores metálicos. El hero recorre cuadro por cuadro un render 3D conforme bajas.
+Invitaciones digitales que se abren como una mini película: música compuesta a la medida, animaciones al tema y confirmación por WhatsApp, así la lista de invitados se arma sola.
 
-Dirección industrial, tipografía condensada, cero plantilla.
+**14 demos en vivo**, cada una con su propio sistema de diseño.
 
-[Ver en vivo](https://anka-web-mu.vercel.app)
+[zyria.site/invitaciones](https://zyria.site/invitaciones/)
 
 </td>
 <td width="50%" valign="top">
@@ -92,6 +92,14 @@ En vez de corregir cada superficie a mano, escribí un corrector que une vértic
 Nació porque el laboratorio de impresión de la escuela rechaza mallas rotas y no las arregla por ti.
 
 `3d-printing` · `computational-geometry` · `mesh-processing` · `numpy`
+
+---
+
+## Demos
+
+Propuestas que armé completas para enseñar de qué se trata, sin que el cliente tuviera que imaginárselo. Es como vendo: mando la cosa funcionando en vez de prometerla.
+
+**[ANKA Soluciones Industriales](https://anka-web-mu.vercel.app)** · Sitio para un fabricante de racks y contenedores metálicos. El hero recorre cuadro por cuadro un render 3D conforme bajas. Dirección industrial, tipografía condensada.
 
 ---
 
