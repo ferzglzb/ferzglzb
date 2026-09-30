@@ -115,7 +115,7 @@ Propuestas que armé completas para enseñar de qué se trata, sin que el client
 |---|---|---|
 | **Casa Canina** | Sistema de gestión para guardería y hotel canino. Agente de WhatsApp que confirma, recuerda y avisa. **800+ perros registrados, 15 a 30 perros al día.** | En producción, cliente activo |
 | **Nexo** | CRM multi-tenant: agenda, reserva pública, comisiones, inventario y roles. Más un agente de voz que contesta el teléfono y agenda solo. **Construido de cero a producción en 3 días.** | En producción |
-| **Velada** | Invitaciones digitales. **14 demos en vivo** y un asistente de pedido con vista previa que se dibuja mientras el cliente elige. El primer pedido llegó por anuncios de Meta en los primeros dos días. | Vendiendo |
+| **Velada** | Invitaciones digitales. **14 demos en vivo** y un asistente de pedido con vista previa que se dibuja mientras el cliente elige. | Catálogo en línea, sin ventas todavía |
 | **La Cipolla** | Menú digital de trattoria: 61 platillos en español e inglés, con asistente de IA y panel para que el dueño cambie precios y promociones. | En producción, cliente activo |
 
 ---
