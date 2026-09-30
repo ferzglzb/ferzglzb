@@ -2,11 +2,13 @@
 
 <p align="center">
   Estudiante de Ingeniería en IA y Ciencia de Datos en el <b>Tec de Monterrey</b>, campus Saltillo.<br />
-  Fundador de <a href="https://zyria.site"><b>Zyria</b></a>, donde diseño y programo el software que usan mis clientes todos los días.
+  Fundador de <a href="https://zyria.site"><b>Zyria</b></a>, donde construyo con agentes de IA el software que usan mis clientes todos los días.<br />
+  Yo defino qué se hace y cómo se ve, y lo pruebo con el cliente. El código lo escribe la IA.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,postgres,python,vercel" alt="Stack" />
+  <sub>Con esto están hechos mis proyectos</sub><br />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,postgres,python,vercel" alt="Tecnologías de los proyectos" />
 </p>
 
 <p align="center">
@@ -30,7 +32,7 @@
 
 <a href="https://zyria.site"><img src="https://raw.githubusercontent.com/ferzglzb/ferzglzb/main/img/zyria.png" alt="Zyria" /></a>
 
-Marca paraguas de tres productos de software para negocios locales. Yo hago el producto, el diseño y la infraestructura.
+Marca paraguas de tres productos de software para negocios locales. Yo defino el producto y el diseño; el código lo escribe la IA.
 
 **Next.js · Supabase con RLS · Vercel**
 
@@ -89,19 +91,13 @@ La uso todos los días.
 
 Generador paramétrico de ruedas impresas en 3D, con `numpy` y nada más.
 
-Escribir triángulos a un STL es fácil. Que la malla quede **cerrada** es lo difícil: cada arista tiene que pertenecer a exactamente dos triángulos y todas las normales tienen que apuntar hacia afuera. Mis primeras versiones salían con 960 aristas sin pareja.
+Escribir triángulos a un STL es fácil. Que la malla quede **cerrada** es lo difícil: cada arista tiene que pertenecer a exactamente dos triángulos y todas las normales tienen que apuntar hacia afuera. Las primeras versiones salían con 960 aristas sin pareja.
 
-En vez de corregir cada superficie a mano, escribí un corrector que une vértices, propaga el devanado por inundación BFS y decide la orientación global con el volumen con signo. Ahora puedes escribir la geometría como se te ocurra y sale bien de todos modos.
+En vez de corregir cada superficie a mano, el repo trae un corrector que une vértices, propaga el devanado por inundación BFS y decide la orientación global con el volumen con signo. Ahora puedes escribir la geometría como se te ocurra y sale bien de todos modos.
 
-Nació porque el laboratorio de impresión de la escuela rechaza mallas rotas y no las arregla por ti.
+Nació porque el laboratorio de impresión de la escuela rechaza mallas rotas y no las arregla por ti. Lo hice con Claude Code.
 
 `3d-printing` · `computational-geometry` · `mesh-processing` · `numpy`
-
----
-
-## Proyectos personales
-
-**Isla** · App nativa de macOS en Swift, AppKit y SwiftUI que convierte el notch de la MacBook en un panel con 12 módulos: música, calendario, portapapeles, cronómetro y más. 151 pruebas automatizadas y 0% de CPU en reposo. Compilada sin Xcode. Repo privado.
 
 ---
 
@@ -121,7 +117,6 @@ Propuestas que armé completas para enseñar de qué se trata, sin que el client
 | **Nexo** | CRM multi-tenant: agenda, reserva pública, comisiones, inventario y roles. Más un agente de voz que contesta el teléfono y agenda solo. **Construido de cero a producción en 3 días.** | En producción |
 | **Velada** | Invitaciones digitales. **14 demos en vivo** y un asistente de pedido con vista previa que se dibuja mientras el cliente elige. El primer pedido llegó por anuncios de Meta en los primeros dos días. | Vendiendo |
 | **La Cipolla** | Menú digital de trattoria: 61 platillos en español e inglés, con asistente de IA y panel para que el dueño cambie precios y promociones. | En producción, cliente activo |
-| **Programas Internacionales** | Plataforma para una empresa de viajes educativos: admisiones con lista de espera, pagos y portal para estudiantes y familias. | En desarrollo |
 
 ---
 
