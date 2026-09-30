@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c0f,60:0e7490,100:22d3ee&height=170&section=header&text=Fernando%20González%20Berlanga&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Construyo%20software%20que%20negocios%20reales%20usan%20para%20operar&descSize=15&descAlignY=58" width="100%" alt="Fernando González Berlanga" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c0f,60:0e7490,100:22d3ee&height=170&section=header&text=Fernando%20Z.%20González%20Berlanga&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Construyo%20software%20que%20negocios%20reales%20usan%20para%20operar&descSize=15&descAlignY=58" width="100%" alt="Fernando Z. González Berlanga" />
 
 <p align="center">
-  Estudiante de ingeniería en el <b>Tec de Monterrey</b>, campus Saltillo.<br />
+  Estudiante de Ingeniería en IA y Ciencia de Datos en el <b>Tec de Monterrey</b>, campus Saltillo.<br />
   Fundador de <a href="https://zyria.site"><b>Zyria</b></a>, donde diseño y programo el software que usan mis clientes todos los días.
 </p>
 
@@ -12,6 +12,10 @@
 <p align="center">
   <sub>La mayor parte de mi código vive en repos privados porque es trabajo de clientes.<br />
   Abajo está todo, con enlace a lo que se puede ver funcionando.</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.zyria.site/trabajos/"><b>Portafolio: videos, webs, menús e invitaciones →</b></a>
 </p>
 
 ---
@@ -95,6 +99,12 @@ Nació porque el laboratorio de impresión de la escuela rechaza mallas rotas y 
 
 ---
 
+## Proyectos personales
+
+**Isla** · App nativa de macOS en Swift, AppKit y SwiftUI que convierte el notch de la MacBook en un panel con 12 módulos: música, calendario, portapapeles, cronómetro y más. 151 pruebas automatizadas y 0% de CPU en reposo. Compilada sin Xcode. Repo privado.
+
+---
+
 ## Demos
 
 Propuestas que armé completas para enseñar de qué se trata, sin que el cliente tuviera que imaginárselo. Es como vendo: mando la cosa funcionando en vez de prometerla.
@@ -107,10 +117,11 @@ Propuestas que armé completas para enseñar de qué se trata, sin que el client
 
 | Proyecto | Qué hace | Estado |
 |---|---|---|
-| **Casa Canina** | Sistema de gestión para guardería y hotel canino. Agente de WhatsApp que confirma, recuerda y avisa. **800+ clientes registrados, 15 a 30 servicios al día.** | En producción, cliente activo |
+| **Casa Canina** | Sistema de gestión para guardería y hotel canino. Agente de WhatsApp que confirma, recuerda y avisa. **800+ perros registrados, 15 a 30 perros al día.** | En producción, cliente activo |
 | **Nexo** | CRM multi-tenant: agenda, reserva pública, comisiones, inventario y roles. Más un agente de voz que contesta el teléfono y agenda solo. **Construido de cero a producción en 3 días.** | En producción |
-| **Velada** | Invitaciones digitales. **14 demos en vivo** y un asistente de pedido con vista previa que se dibuja mientras el cliente elige. | Vendiendo, con pedidos pagados |
-| **La Cipolla** | Menú digital de trattoria: 61 platillos en español e inglés, con asistente de IA. | En Produccion |
+| **Velada** | Invitaciones digitales. **14 demos en vivo** y un asistente de pedido con vista previa que se dibuja mientras el cliente elige. El primer pedido llegó por anuncios de Meta en los primeros dos días. | Vendiendo |
+| **La Cipolla** | Menú digital de trattoria: 61 platillos en español e inglés, con asistente de IA y panel para que el dueño cambie precios y promociones. | En producción, cliente activo |
+| **Programas Internacionales** | Plataforma para una empresa de viajes educativos: admisiones con lista de espera, pagos y portal para estudiantes y familias. | En desarrollo |
 
 ---
 
