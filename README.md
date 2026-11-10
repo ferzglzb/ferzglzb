@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c0f,60:0e7490,100:22d3ee&height=170&section=header&text=Fernando%20Z.%20González%20Berlanga&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Construyo%20software%20que%20negocios%20reales%20usan%20para%20operar&descSize=15&descAlignY=58" width="100%" alt="Fernando Z. González Berlanga" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c0f,60:0e7490,100:22d3ee&height=170&section=header&text=Fernando%20Z.%20González%20Berlanga&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Construyo%20software%20que%20negocios%20reales%20usan%20para%20operar&descSize=15&descAlignY=58" width="100%" alt="Fernando Z González Berlanga" />
 
 <p align="center">
   Estudiante de Ingeniería en IA y Ciencia de Datos en el <b>Tec de Monterrey</b>, campus Saltillo.<br />
