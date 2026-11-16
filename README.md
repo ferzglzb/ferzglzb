@@ -1,125 +1,135 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c0f,60:0e7490,100:22d3ee&height=170&section=header&text=Fernando%20Z.%20González%20Berlanga&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Construyo%20software%20que%20negocios%20reales%20usan%20para%20operar&descSize=15&descAlignY=58" width="100%" alt="Fernando Z González Berlanga" />
+<a href="https://zyria.site"><img src="img/banner.png" alt="Fer Z González · Zyria, webs, software y agentes con IA para negocios" width="100%" /></a>
 
-<p align="center">
-  Estudiante de Ingeniería en IA y Ciencia de Datos en el <b>Tec de Monterrey</b>, campus Saltillo.<br />
-  Fundador de <a href="https://zyria.site"><b>Zyria</b></a>, donde construyo con agentes de IA el software que usan mis clientes todos los días.<br />
-  Yo defino qué se hace y cómo se ve, y lo pruebo con el cliente. El código lo escribe la IA.
-</p>
+Estudio Ingeniería en IA y Ciencia de Datos en el **Tec de Monterrey**, campus Saltillo, y llevo **[Zyria](https://zyria.site)**, mi estudio de webs y software para negocios.
 
-<p align="center">
-  <sub>Con esto están hechos mis proyectos</sub><br />
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,postgres,python,vercel" alt="Tecnologías de los proyectos" />
-</p>
+Yo defino qué se hace y cómo se ve, y lo pruebo con el cliente. El código lo escribo con agentes de IA. Casi todo lo que hay aquí está en producción o se usó para cerrar un cliente.
 
-<p align="center">
-  <sub>La mayor parte de mi código vive en repos privados porque es trabajo de clientes.<br />
-  Abajo está todo, con enlace a lo que se puede ver funcionando.</sub>
-</p>
+**[zyria.site](https://zyria.site)** · **[Instagram](https://instagram.com/zyria.site)** · **[WhatsApp](https://wa.me/528445884774)**
 
-<p align="center">
-  <a href="https://www.zyria.site/trabajos/"><b>Portafolio: videos, webs, menús e invitaciones →</b></a>
-</p>
+<sub>Next.js · TypeScript · Supabase · Tailwind · Claude API · Vercel</sub>
 
 ---
 
-## Lo que estoy construyendo
+### Productos propios
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### Zyria
-
-<a href="https://zyria.site"><img src="https://raw.githubusercontent.com/ferzglzb/ferzglzb/main/img/zyria.png" alt="Zyria" /></a>
-
-Marca paraguas de tres productos de software para negocios locales. Yo defino el producto y el diseño; el código lo escribe la IA.
-
-**Next.js · Supabase con RLS · Vercel**
-
-[zyria.site](https://zyria.site)
-
+<a href="https://www.zoft.dev"><img src="img/zoft.webp" alt="Zoft" /></a>
+<br /><b>Zoft</b> · <sub>Software de citas</sub>
+<br />Agenda, caja y reservas en línea para salones de belleza. Nació para que un salón deje Fresha sin cambiar su forma de trabajar.
+<br /><sub><a href="https://www.zoft.dev">zoft.dev</a></sub>
 </td>
 <td width="50%" valign="top">
-
-### Antojo
-
-<p align="center"><a href="https://antojo.zyria.site"><img src="https://raw.githubusercontent.com/ferzglzb/ferzglzb/main/img/antojo.png" alt="Antojo" height="320" /></a></p>
-
-Menús digitales para restaurantes. **7 menús en vivo**, y cada marca lleva su propio sistema de diseño en vez de una plantilla recoloreada.
-
-Mobile first: el 95% de los comensales lo abre desde el celular.
-
-[antojo.zyria.site](https://antojo.zyria.site)
-
+<a href="https://zyria.site/menus/"><img src="img/antojo.webp" alt="Antojo" /></a>
+<br /><b>Antojo</b> · <sub>Menús digitales</sub>
+<br />Menús digitales para restaurantes, cada uno con el diseño de su marca y un mesero con IA que recomienda platillos.
+<br /><sub><a href="https://zyria.site/menus/">Ver los menús</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### Velada
-
-<a href="https://zyria.site/invitaciones/"><img src="https://raw.githubusercontent.com/ferzglzb/ferzglzb/main/img/velada.png" alt="Velada" /></a>
-
-Invitaciones digitales que se abren como una mini película: música compuesta a la medida, animaciones al tema y confirmación por WhatsApp, así la lista de invitados se arma sola.
-
-**14 demos en vivo**, cada una con su propio sistema de diseño.
-
-[zyria.site/invitaciones](https://zyria.site/invitaciones/)
-
+<a href="https://telar-sarape.vercel.app"><img src="img/telar.webp" alt="Telar" /></a>
+<br /><b>Telar</b> · <sub>App de hábitos</sub>
+<br />Cada día es un hilo y al terminar el mes la app te teje un sarape de Saltillo.
+<br /><sub><a href="https://telar-sarape.vercel.app">Abrir la app</a> · <a href="https://github.com/ferzglzb/telar">Código</a></sub>
 </td>
 <td width="50%" valign="top">
-
-### Bloque
-
-<p align="center"><a href="https://bloque.zyria.site"><img src="https://raw.githubusercontent.com/ferzglzb/ferzglzb/main/img/bloque.png" alt="Bloque" height="320" /></a></p>
-
-Mi app de estudiante: horario, materias y pendientes en un lugar, con widget de pantalla de inicio para iOS que dice cuánto falta para la siguiente clase.
-
-La uso todos los días.
-
-[bloque.zyria.site](https://bloque.zyria.site)
-
+<a href="https://zyria.site/invitaciones/valeria-y-daniel/"><img src="img/velada-boda.webp" alt="Velada" /></a>
+<br /><b>Velada</b> · <sub>Invitaciones digitales</sub>
+<br />Invitaciones que se abren como una película corta, con música, animación y confirmación de asistencia.
+<br /><sub><a href="https://zyria.site/invitaciones/valeria-y-daniel/">Ver una invitación</a></sub>
 </td>
 </tr>
 </table>
 
+### Para clientes
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://metalmaster-drab.vercel.app"><img src="img/metal-master.webp" alt="Metal Master" /></a>
+<br /><b>Metal Master</b> · <sub>Tienda en línea · Piedras Negras</sub>
+<br />Tienda de puertas de acero: armas tu puerta, la pruebas en la foto de tu casa y un asesor con IA te recomienda.
+<br /><sub><a href="https://metalmaster-drab.vercel.app">Sitio</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vivo-market-maqueta.vercel.app"><img src="img/vivo-market.webp" alt="Vivo Market" /></a>
+<br /><b>Vivo Market</b> · <sub>Tienda en línea · Monclova</sub>
+<br />Tienda a granel donde armas tu bolsa desde 100 g, con un asesor que recomienda.
+<br /><sub><a href="https://vivo-market-maqueta.vercel.app">Sitio</a> · <a href="https://github.com/ferzglzb/vivo-market">Código</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://modificar.vercel.app"><img src="img/modificar.webp" alt="ModifiCar" /></a>
+<br /><b>ModifiCar</b> · <sub>Sitio web · Saltillo</sub>
+<br />Sitio para un taller de vinil y wrap automotriz, en español e inglés, con panel para el dueño.
+<br /><sub><a href="https://modificar.vercel.app">Sitio</a> · <a href="https://github.com/ferzglzb/modificar">Código</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://casacanina-demo.vercel.app/prueba-kit"><img src="img/casa-canina.webp" alt="Casa Canina" /></a>
+<br /><b>Casa Canina</b> · <sub>Software a la medida · Saltillo</sub>
+<br />Sistema de una guardería y hotel de perros: reservas, cuartos, cobros y reportes. El código es privado; la demo usa datos de ejemplo.
+<br /><sub><a href="https://casacanina-demo.vercel.app/prueba-kit">Demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://cafe-heroes.vercel.app"><img src="img/cafe-heroes.webp" alt="Café a los Héroes" /></a>
+<br /><b>Café a los Héroes</b> · <sub>Sitio web · Monclova</sub>
+<br />Sitio de una cafetería con su carta y el horario del día.
+<br /><sub><a href="https://cafe-heroes.vercel.app">Sitio</a> · <a href="https://github.com/ferzglzb/cafe-heroes">Código</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://anka-web-mu.vercel.app"><img src="img/anka.webp" alt="ANKA Soluciones Industriales" /></a>
+<br /><b>ANKA Soluciones Industriales</b> · <sub>Sitio web · Ramos Arizpe</sub>
+<br />Sitio de un fabricante de racks y contenedores industriales, en español e inglés.
+<br /><sub><a href="https://anka-web-mu.vercel.app">Sitio</a> · <a href="https://github.com/ferzglzb/anka-web">Código</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://synergym-web.vercel.app"><img src="img/synergy.webp" alt="Synergy" /></a>
+<br /><b>Synergy</b> · <sub>Página de venta</sub>
+<br />Página de un sistema para gimnasios: membresías, accesos con QR y avisos de cobro.
+<br /><sub><a href="https://synergym-web.vercel.app">Sitio</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://kg-karat.vercel.app"><img src="img/kg-karat.webp" alt="KG Karat" /></a>
+<br /><b>KG Karat</b> · <sub>App</sub>
+<br />Journal de disciplina para los alumnos de un trader de oro, con acceso de pago por código.
+<br /><sub><a href="https://kg-karat.vercel.app">Abrir la app</a></sub>
+</td>
+</tr>
+</table>
+
+### Propuestas
+
+Demos completas que armé para enseñarle a un negocio cómo se vería, antes de que tuviera que imaginárselo.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://littlefarm-saltillo.vercel.app"><img src="img/little-farm.webp" alt="Little Farm y Chick & Cow" /></a>
+<br /><b>Little Farm y Chick & Cow</b> · <sub>Sitio web · Saltillo</sub>
+<br />Pollo frito y carnicería con pedidos para recoger y ocho sucursales en el mapa.
+<br /><sub><a href="https://littlefarm-saltillo.vercel.app">Sitio</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://elenora-flame.vercel.app"><img src="img/elenora.webp" alt="Elenora Catering Bar" /></a>
+<br /><b>Elenora Catering Bar</b> · <sub>Sitio web · Saltillo</sub>
+<br />Catering de barras de snacks, brunch y mimosas para eventos.
+<br /><sub><a href="https://elenora-flame.vercel.app">Sitio</a></sub>
+</td>
+</tr>
+</table>
+
+### Herramientas
+
+- **[Isla](https://github.com/ferzglzb/isla)**: convierte el notch de la MacBook en algo útil. Ventanas, notas, calendario, música y portapapeles en la isla. Swift, AppKit y SwiftUI, sin Xcode.
+- **[sapal-stl](https://github.com/ferzglzb/sapal-stl)**: genera ruedas STL paramétricas para impresión 3D y repara la malla para que salga cerrada. Python y numpy.
+
 ---
 
-## Código público
-
-### [sapal-stl](https://github.com/ferzglzb/sapal-stl)
-
-Generador paramétrico de ruedas impresas en 3D, con `numpy` y nada más.
-
-Escribir triángulos a un STL es fácil. Que la malla quede **cerrada** es lo difícil: cada arista tiene que pertenecer a exactamente dos triángulos y todas las normales tienen que apuntar hacia afuera. Las primeras versiones salían con 960 aristas sin pareja.
-
-En vez de corregir cada superficie a mano, el repo trae un corrector que une vértices, propaga el devanado por inundación BFS y decide la orientación global con el volumen con signo. Ahora puedes escribir la geometría como se te ocurra y sale bien de todos modos.
-
-Nació porque el laboratorio de impresión de la escuela rechaza mallas rotas y no las arregla por ti. Lo hice con Claude Code.
-
-`3d-printing` · `computational-geometry` · `mesh-processing` · `numpy`
-
----
-
-## Demos
-
-Propuestas que armé completas para enseñar de qué se trata, sin que el cliente tuviera que imaginárselo. Es como vendo: mando la cosa funcionando en vez de prometerla.
-
-**[ANKA Soluciones Industriales](https://anka-web-mu.vercel.app)** · Sitio para un fabricante de racks y contenedores metálicos. El hero recorre cuadro por cuadro un render 3D conforme bajas. Dirección industrial, tipografía condensada.
-
----
-
-## En producción con clientes
-
-| Proyecto | Qué hace | Estado |
-|---|---|---|
-| **Casa Canina** | Sistema de gestión para guardería y hotel canino. Agente de WhatsApp que confirma, recuerda y avisa. **800+ perros registrados, 15 a 30 perros al día.** | En producción, cliente activo |
-| **Nexo** | CRM multi-tenant: agenda, reserva pública, comisiones, inventario y roles. Más un agente de voz que contesta el teléfono y agenda solo. **Construido de cero a producción en 3 días.** | En producción |
-| **Velada** | Invitaciones digitales. **14 demos en vivo** y un asistente de pedido con vista previa que se dibuja mientras el cliente elige. | Catálogo en línea, sin ventas todavía |
-| **La Cipolla** | Menú digital de trattoria: 61 platillos en español e inglés, con asistente de IA y panel para que el dueño cambie precios y promociones. | En producción, cliente activo |
-
----
-
-<p align="center">
-  <a href="https://zyria.site"><b>zyria.site</b></a>
-</p>
+<p align="center"><sub>Más proyectos, videos y menús en <a href="https://zyria.site"><b>zyria.site</b></a></sub></p>
