@@ -32,7 +32,7 @@ Yo defino qué se hace y cómo se ve, y lo pruebo con el cliente. El código lo 
 <a href="https://telar-sarape.vercel.app"><img src="img/telar.webp" alt="Telar" /></a>
 <br /><b>Telar</b> · <sub>App de hábitos</sub>
 <br />Cada día es un hilo y al terminar el mes la app te teje un sarape de Saltillo.
-<br /><sub><a href="https://telar-sarape.vercel.app">Abrir la app</a> · <a href="https://github.com/ferzglzb/telar">Código</a></sub>
+<br /><sub><a href="https://telar-sarape.vercel.app">Abrir la app</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://zyria.site/invitaciones/valeria-y-daniel/"><img src="img/velada-boda.webp" alt="Velada" /></a>
@@ -57,7 +57,7 @@ Yo defino qué se hace y cómo se ve, y lo pruebo con el cliente. El código lo 
 <a href="https://vivo-market-maqueta.vercel.app"><img src="img/vivo-market.webp" alt="Vivo Market" /></a>
 <br /><b>Vivo Market</b> · <sub>Tienda en línea · Monclova</sub>
 <br />Tienda a granel donde armas tu bolsa desde 100 g, con un asesor que recomienda.
-<br /><sub><a href="https://vivo-market-maqueta.vercel.app">Sitio</a> · <a href="https://github.com/ferzglzb/vivo-market">Código</a></sub>
+<br /><sub><a href="https://vivo-market-maqueta.vercel.app">Sitio</a></sub>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ Yo defino qué se hace y cómo se ve, y lo pruebo con el cliente. El código lo 
 <a href="https://modificar.vercel.app"><img src="img/modificar.webp" alt="ModifiCar" /></a>
 <br /><b>ModifiCar</b> · <sub>Sitio web · Saltillo</sub>
 <br />Sitio para un taller de vinil y wrap automotriz, en español e inglés, con panel para el dueño.
-<br /><sub><a href="https://modificar.vercel.app">Sitio</a> · <a href="https://github.com/ferzglzb/modificar">Código</a></sub>
+<br /><sub><a href="https://modificar.vercel.app">Sitio</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://casacanina-demo.vercel.app/prueba-kit"><img src="img/casa-canina.webp" alt="Casa Canina" /></a>
@@ -79,13 +79,13 @@ Yo defino qué se hace y cómo se ve, y lo pruebo con el cliente. El código lo 
 <a href="https://cafe-heroes.vercel.app"><img src="img/cafe-heroes.webp" alt="Café a los Héroes" /></a>
 <br /><b>Café a los Héroes</b> · <sub>Sitio web · Monclova</sub>
 <br />Sitio de una cafetería con su carta y el horario del día.
-<br /><sub><a href="https://cafe-heroes.vercel.app">Sitio</a> · <a href="https://github.com/ferzglzb/cafe-heroes">Código</a></sub>
+<br /><sub><a href="https://cafe-heroes.vercel.app">Sitio</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://anka-web-mu.vercel.app"><img src="img/anka.webp" alt="ANKA Soluciones Industriales" /></a>
 <br /><b>ANKA Soluciones Industriales</b> · <sub>Sitio web · Ramos Arizpe</sub>
 <br />Sitio de un fabricante de racks y contenedores industriales, en español e inglés.
-<br /><sub><a href="https://anka-web-mu.vercel.app">Sitio</a> · <a href="https://github.com/ferzglzb/anka-web">Código</a></sub>
+<br /><sub><a href="https://anka-web-mu.vercel.app">Sitio</a></sub>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ Demos completas que armé para enseñarle a un negocio cómo se vería, antes de
 
 ### Herramientas
 
-- **[Isla](https://github.com/ferzglzb/isla)**: convierte el notch de la MacBook en algo útil. Ventanas, notas, calendario, música y portapapeles en la isla. Swift, AppKit y SwiftUI, sin Xcode.
+- **Isla**: convierte el notch de la MacBook en algo útil. Ventanas, notas, calendario, música y portapapeles en la isla. Swift, AppKit y SwiftUI, sin Xcode.
 - **[sapal-stl](https://github.com/ferzglzb/sapal-stl)**: genera ruedas STL paramétricas para impresión 3D y repara la malla para que salga cerrada. Python y numpy.
 
 ---
